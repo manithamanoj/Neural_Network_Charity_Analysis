@@ -47,12 +47,15 @@ Using TensorFlow, optimize the model to achieve a target predictive accuracy hig
 
 Three attempts to increase model performance
  ### First attempt
+ 
 <img width="1069" alt="Screen Shot 2022-05-07 at 12 10 03 PM" src="https://user-images.githubusercontent.com/72629108/167268559-9545fcbd-aaa9-487f-a420-3a1d84941531.png">
 <img width="1001" alt="Screen Shot 2022-05-07 at 12 10 24 PM" src="https://user-images.githubusercontent.com/72629108/167268568-081dcf66-6e98-4efd-a74f-3fbb84957896.png">
 ### Second attempt
+
 <img width="1126" alt="Screen Shot 2022-05-07 at 11 35 21 AM" src="https://user-images.githubusercontent.com/72629108/167267757-92cc1df7-1f8f-4518-9d5b-f6a4c2b8adee.png">
 <img width="1096" alt="Screen Shot 2022-05-07 at 11 25 55 AM" src="https://user-images.githubusercontent.com/72629108/167268484-5ebd6b81-49dc-49ec-ac07-eae564a17edd.png">
 ### Third attempt
+
 <img width="1065" alt="Screen Shot 2022-05-07 at 11 37 47 AM" src="https://user-images.githubusercontent.com/72629108/167267778-88dc81c2-4f43-47c8-9731-8e189c94d3b7.png">
 <img width="1059" alt="Screen Shot 2022-05-07 at 11 37 28 AM" src="https://user-images.githubusercontent.com/72629108/167267790-2111f120-f2e8-412b-a51b-bae7be86d86e.png">
 
